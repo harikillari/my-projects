@@ -1,0 +1,164 @@
+/* .signup-content {
+  padding: 30px 0px 2px 500px;
+} */
+
+.card {
+  color: white;
+  text-align: center;
+  padding: 100px;
+}
+
+.card-container  a {
+  background: #00B3E8;
+  color: #fff !important;
+  padding: 30px;
+  margin-left: 15px;
+}
+
+.card-container button {
+  height: 40px;
+  width: 100px;
+  font-size: x-large;
+}
+
+
+.container {
+  width: 1400px;
+  position: relative;
+  margin: 0 auto;
+  background: #fff;
+}
+
+.reg-btn{
+  text-align: center;
+    width: 400px;
+}
+
+#reg:hover{
+  background: #ff6801;
+  color: #f8f8f8;
+  margin-right: 8px;
+}
+
+#submit-2 {
+  background: #ff6801;
+  color: #fff;
+}
+
+
+img {
+  width: 780px;
+  height: 1000px;
+}
+
+
+.register-form {
+  padding: 50px 100px 50px 70px;
+}
+
+.signup-content {
+  display: flex;
+
+}
+.signup-form {
+  padding: 15px 100px;
+}
+.signup-img{
+  width: 50%;
+  padding: 30px;
+}
+
+h2 {
+  line-height: 1.66;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  color: #222;
+  font-family: montserrat;
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+}
+
+
+.form-row {
+  margin: 0 -15px;
+  display: flex;
+}
+
+.form-row .form-group {
+  width: 50%;
+  padding: 0 15px;
+}
+.form-group {
+  margin-bottom: 23px;
+  position: relative;
+}
+
+#log {
+  background: #ff6801;
+  color: #fff;
+}
+.submit {
+  width: 140px;
+  height: 40px;
+  display: inline-block;
+  
+}
+
+.form-submit {
+  text-align: right;
+  padding-top: 27px;
+  text-align: center;
+  letter-spacing: 25px;
+}
+
+.form-register{
+  text-align: right;
+  padding-top: 27px;
+  text-align: center;
+}
+
+
+input, select {
+  width: 100%;
+  border: 1px solid #ebebeb;
+  padding: 11px 20px;
+  box-sizing: border-box;
+  
+}
+
+/* :root {
+  --error-color: #dc3545;
+  --success-color: #28a745;
+  --warning-color: #ffc107;
+} */
+
+
+
+.new-container {
+  width: 1400px;
+  position: relative;
+  margin: 0 auto;
+  background: #fff;
+  background-color: gold;
+}
+
+.card {
+  color: white;
+  text-align: center;
+  padding: 100px;
+}
+
+.card-container  a {
+  background: #00B3E8;
+  color: #fff !important;
+  padding: 30px;
+  margin-left: 15px;
+}
+
+.card-container button {
+  height: 40px;
+  width: 100px;
+  font-size: x-large;
+}
